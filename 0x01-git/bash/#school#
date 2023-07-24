@@ -1,0 +1,6 @@
+#!/bin/bash
+<<<<<<< HEAD
+ec
+=======
+echo "School"
+>>>>>>> master
